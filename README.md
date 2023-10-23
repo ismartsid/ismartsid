@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ismartsid
-- 👀 I’m interested in Digital electronics, Embedded Systems, Wearable sensors, Internet of Things
+- 👋 Hi, I’m Sidhartha
+- 👀 I’m interested in Digital electronics, Embedded Systems, Computer Architecture and VLSI
 - 🌱 Student
 - 📫 sidharthagiridhar@gmail.com
 
