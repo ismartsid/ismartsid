@@ -10,9 +10,9 @@ Hey there! I'm on an exciting journey in the world of Digital VLSI, where I'm on
   B.M.S College of Engineering, Bangalore, India
 
 ## 💻 Technical Expertise
-- **EDA Tools:** Cadence, Xilinx Vivado, QuartusPrime
-- **Programming Languages:** Verilog, System Verilog, C
-- **Computer Architecture:** RISC-V, ARM
+- **EDA Tools:** EDA tools: Keil, Tina-Ti, ModelSim, Cadence (Virtuoso, Innovus, HSPICE), Synopsys (Design Compiler, Primetime), Mentor Graphics Calibre, Xilinx (Vivado, ISE), QuartusPrime, Gem5
+- **Programming Languages:** Python, C, C++, Verilog, VHDL, System Verilog (UVM), TCL
+- **Computer Architecture:** RISC-V, ARM, Branch Predictors, Cache Design, Coherence Protocols, AMBA, I2C, UART, SPI
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sidhartha-g) or via email at sidharthagiridhar@gmail.com for any discussions or collaborations related to Digital VLSI or any related endeavors.
 
